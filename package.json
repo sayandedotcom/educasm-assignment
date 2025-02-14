@@ -1,5 +1,5 @@
 {
-  "name": "educasm-asg",
+  "name": "educasm-assignment",
   "private": true,
   "scripts": {
     "build": "turbo build",
